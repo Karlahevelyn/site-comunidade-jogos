@@ -1,0 +1,42 @@
+body {
+ background-color:  #add8e6;
+font-family: 'Times New Roman', Times, serif;
+margin: 0px;
+}
+
+ul{
+    display: flex;
+    justify-content: flex-end;
+    align-content: center;
+    flex-direction: column;
+}
+nav{
+    display: flex;
+    flex-direction: column-reverse;
+}
+p{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+div{
+    max-width: 300px;
+    max-height: 400px;
+    width: auto;
+    height: auto;
+    margin: 0 ;
+    padding: 10px 220px 0px 5px ;
+}
+.tamanhoImagem{
+    max-width: 500px;
+    max-height: 300px;
+    width: auto;
+    height: auto;
+}
+.jogos{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+
+
