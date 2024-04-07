@@ -1,8 +1,9 @@
 body {
- background-color:  #add8e6;
-font-family: 'Times New Roman', Times, serif;
+ background-color: black;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 font-size: 16px;
 margin: 0px;
+color: red;
 }
 
 ul{
@@ -46,7 +47,7 @@ h1{
     font-size: 45px;
 }
 .menu{
-    color: black;
+    color: white;
     font-size: 17px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
