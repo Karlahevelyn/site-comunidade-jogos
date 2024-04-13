@@ -1,66 +1,65 @@
+* {
+    padding: 0%;
+    margin: 0px;
+}
+
 body {
- background-color: black;
-font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-font-size: 16px;
-margin: 0px;
-color: red;
-}
-
-ul{
-    display: flex;
-    justify-content: flex-end;
-    align-content: center;
-    flex-direction: column;
-}
-nav{
-    display: flex;
-    flex-direction: column-reverse;
-}
-p{
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
-}
-div{
-    max-width: 300px;
-    max-height: 400px;
-    width: auto;
-    height: auto;
-    margin: 0 ;
-    padding: 10px 110px 0px 2px ;
-}
-.tamanhoImagem{
-    max-width: 400px;
-    max-height: 300px;
-    width: auto;
-    height: auto;
-}
-.jogos{
-    display: flex;
-    flex-direction: row;
-    
-}
-.inicio{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 21px;
-}
-h1{
-    font-size: 45px;
-}
-.menu{
-    color: white;
-    font-size: 17px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
-    h2 { 
-        display: flex;
-        font-size: 11000px ;
-        color: ;
-        height: ;
-        width: ;
+    background-color: black;
+    color: red;
 
 }
 
+h1 {
+    font-size: 30pt;
+}
+
+div {
+    width: 99%;
+    margin: auto;
+}
+
+h3 {
+
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    padding: 2%;
+    font-size: 20pt;
+}
+
+img {
+    width: 18%;
+
 
 }
 
+/*-------------MENU---------*/
+nav {
+    background-color: rebeccapurple;
+    height: 28px;
+}
 
+ul {
+    list-style: none;
+    float: right;
+    margin-right: 100px;
+}
+
+li {
+    display: inline-block;
+    line-height: 28px;
+    padding: 0px 10px;
+
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+
+}
+
+li a:hover {
+    border-bottom: 1px solid black;
+    padding-bottom: 2px;
+}
