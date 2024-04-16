@@ -9,13 +9,23 @@
 
 </head>
 <body>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link rel="stylesheet" href="comunidade.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LOGIN</title>
+</head>
+<body>
     <nav>
-     <ul>
-     <li><a href="home.html">INICIO</a></li>
-     <li><a href="novidades.html">+JOGOS</a></li>
-     <li><a href="entrar.html">ENTRAR</a></li>
-    </ul>
-  </nav>
+        <ul>
+         <li><a href="entrar.php">ENTRAR</a></li>
+         <li><a href="novidades.html">+JOGOS</a></li>
+         <li><a href="home.html">INICIO</a></li>
+       </ul>
+    </nav>
+  </html>
   <div id="largura-pagina">
   <section id="conteudo1">
     <h1>Bem-vindo(a) à nossa seção de comentários sobre jogos! Entre, compartilhe suas opiniões e junte-se à conversa sobre os seus games favoritos.</h1>
@@ -36,7 +46,5 @@
    </div>
     </div>
    </section>
-  
-   
-</body>
+   </body>
 </html>

@@ -9,7 +9,7 @@
 <body>
     <nav>
         <ul>
-         <li><a href="comunidade.html">COMUNIDADE</a></li>
+         <li><a href="comunidade.php">COMUNIDADE</a></li>
          <li><a href="novidades.html">+JOGOS</a></li>
          <li><a href="home.html">INICIO</a></li>
        </ul>
@@ -26,8 +26,6 @@
     <Label>CONFIRMAR SENHA</Label>
     <input type="password" name="confsenha">
     <input type="submit" value="cadastrar">
-    
     </form>
 </body>
-</html>
 </html>
