@@ -46,5 +46,6 @@
    </div>
     </div>
    </section>
-   </body>
+   <script src="com.js"></script>
+  </body>
 </html>

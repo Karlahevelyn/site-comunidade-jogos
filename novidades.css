@@ -20,6 +20,18 @@ p{
     width: auto;
     height: auto;
 }
+.t{
+    max-width: 500px;
+    max-height: 300px;
+    width: auto;
+    height: auto;
+
+}
+div{
+    padding: 1%;
+   
+    
+}
 /*-------------MENU---------*/
 nav{
     background-color: rebeccapurple;

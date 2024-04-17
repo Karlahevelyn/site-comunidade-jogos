@@ -67,3 +67,17 @@ li a:hover {
     border-bottom: 1px solid black;
     padding-bottom: 2px;
 }
+.i{
+    max-width: 300px ;
+    max-height: 300px ;
+    width: auto;
+    height: auto;
+    flex: auto;
+    float:right;
+    
+}
+p{
+    font-size: 200%;
+    padding: 2%;
+
+}

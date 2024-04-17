@@ -17,14 +17,14 @@
     
     <form method="post"">
     <h1>CADASTRE-SE</h1>
-    <label>NOME</label>
-    <input type="text" name="nome">
-    <label>EMAIL</label>
-    <input type="email" name="email" autocomplete="off">
-    <label>SENHA</label>
-    <input type="password" name="senha">
-    <Label>CONFIRMAR SENHA</Label>
-    <input type="password" name="confsenha">
+    <label for="nome">NOME</label>
+    <input type="text" name="nome" id="nome">
+    <label for="email">EMAIL</label>
+    <input type="email" name="email" autocomplete="off" id= "email">
+    <label for="senha">SENHA</label>
+    <input type="password" name="senha" id="senha">
+    <Label for="confsenha">CONFIRMAR SENHA</Label>
+    <input type="password" name="confsenha" id= "confsenha">
     <input type="submit" value="cadastrar">
     </form>
 </body>
